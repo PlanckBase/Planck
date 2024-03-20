@@ -1,0 +1,15 @@
+D:\Planck\Planck\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Planck\Planck\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Planck\Planck\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Planck\Planck\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Planck\Planck\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Planck\Planck\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Planck\Planck\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Planck\Planck\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Planck\Planck\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Planck\Planck\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+D:\Planck\Planck\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Planck\Planck\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Planck\Planck\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Planck\Planck\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Planck\Planck\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
