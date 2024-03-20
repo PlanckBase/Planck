@@ -1,9 +1,4 @@
 ﻿using System;
 
-namespace You_Suffer{
-    class But_why{
-        static void Main(string[] args){
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
+Console.WriteLine("Hello, World!");
+string userName = Console.ReadLine();
