@@ -1,6 +1,8 @@
 var builder = WebApplication.CreateBuilder(args);
+builder.Environment.IsDevelopment();
 var app = builder.Build();
 
 app.UseDefaultFiles();
+app.Environment.IsDevelopment();
 
 app.Run();
