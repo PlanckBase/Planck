@@ -7,6 +7,7 @@ internal class Program
         var app = builder.Build();
 
         app.UseDefaultFiles();
+        app.UseStaticFiles();
         app.Environment.IsDevelopment();
 
         app.Run();

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YtbnGRskUJ8P3I96MoklpdXAZHzGShHA3XVG0HfljEZv3aeQnsMA+mm3ZIuSf49cNEg+nRAlDolLqBVbe8nnuw==",
+  "dgSpecHash": "Jq/3yA6ybLY=",
   "success": true,
-  "projectFilePath": "D:\\Planck\\Planck\\Backend\\Backend.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Robotics\\Documents\\Planck\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robotics\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Robotics\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Robotics\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\Robotics\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
